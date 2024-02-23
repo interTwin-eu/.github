@@ -1,6 +1,7 @@
 ## 
 interTwin is an EU-funded project with the goal to co-design and implement the prototype of an interdisciplinary Digital Twin Engine – an open source platform based on open standards that offers the capability to integrate with application-specific Digital Twins.
 
+interTwin is funded by the European Union Grant Agreement Number 101058386
 
 <!--
 
